@@ -1,6 +1,7 @@
 import json
 tasks = []
 
+# comment
 # Function for add a task
 def add_task(title, description="", priority="Low", deadline="None"):
     task = {
